@@ -1,0 +1,10 @@
+итого 32K
+drwxrwxr-x  3 sunless sunless 4,0K фев 14 17:30 ./
+drwxr-x--- 24 sunless sunless 4,0K фев 14 17:31 ../
+-rw-rw-r--  1 sunless sunless  714 фев 14 17:27 config.txt
+-rw-rw-r--  1 sunless sunless  176 фев 14 17:19 first.txt
+drwxrwxr-x  8 sunless sunless 4,0K фев 14 17:29 .git/
+-rw-rw-r--  1 sunless sunless    0 фев 14 17:31 ls.txt
+-rw-rw-r--  1 sunless sunless   20 фев 14 17:11 README.md
+-rw-rw-r--  1 sunless sunless  408 фев 14 17:19 status.txt
+-rw-rw-r--  1 sunless sunless  142 фев 14 17:31 tree.txt
